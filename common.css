@@ -1,0 +1,26 @@
+body {
+	background-image: linear-gradient(to right, red, yellow);
+	/*background-color: blue;*/
+	margin: 0px;
+}
+
+header h1 {
+	background-color: yellow;
+	border: 10px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 0px;
+	border-top: 0px;
+	width: 714px;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	border-bottom: 5px solid;
+	border-bottom-color: black;
+	/*background-color: grey;*/
+}
